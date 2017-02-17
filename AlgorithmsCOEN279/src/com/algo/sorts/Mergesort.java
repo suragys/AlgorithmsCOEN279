@@ -1,5 +1,5 @@
 /**
- * 
+ * This is inplace implementation of mergesort
  */
 package com.algo.sorts;
 
